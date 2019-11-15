@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.398267612979298 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "gonzau" 
+        xmin = 0 
+        xmax = 10.398267612979298 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4524841575554341 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4524841575554341 
+            xmax = 2.2258889141350577 
+            text = "N" 
+        intervals [3]:
+            xmin = 2.2258889141350577 
+            xmax = 2.864463982781172 
+            text = "" 
+        intervals [4]:
+            xmin = 2.864463982781172 
+            xmax = 3.0753653935539136 
+            text = "1" 
+        intervals [5]:
+            xmin = 3.0753653935539136 
+            xmax = 3.271466705325059 
+            text = "w" 
+        intervals [6]:
+            xmin = 3.271466705325059 
+            xmax = 3.2912001706605203 
+            text = "2" 
+        intervals [7]:
+            xmin = 3.2912001706605203 
+            xmax = 3.4182343537575517 
+            text = "3" 
+        intervals [8]:
+            xmin = 3.4182343537575517 
+            xmax = 3.545268536854583 
+            text = "4" 
+        intervals [9]:
+            xmin = 3.545268536854583 
+            xmax = 4.364673266735502 
+            text = "" 
+        intervals [10]:
+            xmin = 4.364673266735502 
+            xmax = 5.02944438022385 
+            text = "N" 
+        intervals [11]:
+            xmin = 5.02944438022385 
+            xmax = 6.051285896976243 
+            text = "" 
+        intervals [12]:
+            xmin = 6.051285896976243 
+            xmax = 6.258368370533494 
+            text = "1" 
+        intervals [13]:
+            xmin = 6.258368370533494 
+            xmax = 6.516708882099965 
+            text = "w" 
+        intervals [14]:
+            xmin = 6.516708882099965 
+            xmax = 6.526960489701809 
+            text = "2" 
+        intervals [15]:
+            xmin = 6.526960489701809 
+            xmax = 6.621275279638774 
+            text = "3" 
+        intervals [16]:
+            xmin = 6.621275279638774 
+            xmax = 6.783250679747911 
+            text = "4" 
+        intervals [17]:
+            xmin = 6.783250679747911 
+            xmax = 8.76950688941097 
+            text = "" 
+        intervals [18]:
+            xmin = 8.76950688941097 
+            xmax = 8.785498792084464 
+            text = "1" 
+        intervals [19]:
+            xmin = 8.785498792084464 
+            xmax = 8.835934792823949 
+            text = "y" 
+        intervals [20]:
+            xmin = 8.835934792823949 
+            xmax = 9.06412694251113 
+            text = "z" 
+        intervals [21]:
+            xmin = 9.06412694251113 
+            xmax = 9.110257430992366 
+            text = "2" 
+        intervals [22]:
+            xmin = 9.110257430992366 
+            xmax = 9.208669139752336 
+            text = "3" 
+        intervals [23]:
+            xmin = 9.208669139752336 
+            xmax = 9.331068702522549 
+            text = "4" 
+        intervals [24]:
+            xmin = 9.331068702522549 
+            xmax = 9.605195009068904 
+            text = "" 
+        intervals [25]:
+            xmin = 9.605195009068904 
+            xmax = 9.81185959746484 
+            text = "1" 
+        intervals [26]:
+            xmin = 9.81185959746484 
+            xmax = 9.9496359897288 
+            text = "w" 
+        intervals [27]:
+            xmin = 9.9496359897288 
+            xmax = 9.97915950235679 
+            text = "2" 
+        intervals [28]:
+            xmin = 9.97915950235679 
+            xmax = 10.062809454802764 
+            text = "3" 
+        intervals [29]:
+            xmin = 10.062809454802764 
+            xmax = 10.193204968909724 
+            text = "4" 
+        intervals [30]:
+            xmin = 10.193204968909724 
+            xmax = 10.398267612979298 
+            text = "" 

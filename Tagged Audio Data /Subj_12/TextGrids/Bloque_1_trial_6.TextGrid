@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.425160427201197 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "gonzau" 
+        xmin = 0 
+        xmax = 7.425160427201197 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0829981624389295 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0829981624389295 
+            xmax = 1.7019891263721747 
+            text = "N" 
+        intervals [3]:
+            xmin = 1.7019891263721747 
+            xmax = 2.358562383958908 
+            text = "" 
+        intervals [4]:
+            xmin = 2.358562383958908 
+            xmax = 2.5510956460071896 
+            text = "1" 
+        intervals [5]:
+            xmin = 2.5510956460071896 
+            xmax = 2.654326246084141 
+            text = "w" 
+        intervals [6]:
+            xmin = 2.654326246084141 
+            xmax = 2.6903750270633937 
+            text = "2" 
+        intervals [7]:
+            xmin = 2.6903750270633937 
+            xmax = 2.8001599509547543 
+            text = "3" 
+        intervals [8]:
+            xmin = 2.8001599509547543 
+            xmax = 2.936981460580555 
+            text = "4" 
+        intervals [9]:
+            xmin = 2.936981460580555 
+            xmax = 3.581689338091859 
+            text = "" 
+        intervals [10]:
+            xmin = 3.581689338091859 
+            xmax = 4.230567395718409 
+            text = "N" 
+        intervals [11]:
+            xmin = 4.230567395718409 
+            xmax = 4.805773964152614 
+            text = "" 
+        intervals [12]:
+            xmin = 4.805773964152614 
+            xmax = 4.968813769826817 
+            text = "1" 
+        intervals [13]:
+            xmin = 4.968813769826817 
+            xmax = 5.100862538058816 
+            text = "y" 
+        intervals [14]:
+            xmin = 5.100862538058816 
+            xmax = 5.282092735275183 
+            text = "z" 
+        intervals [15]:
+            xmin = 5.282092735275183 
+            xmax = 5.3063465906647345 
+            text = "2" 
+        intervals [16]:
+            xmin = 5.3063465906647345 
+            xmax = 5.3892139299123665 
+            text = "3" 
+        intervals [17]:
+            xmin = 5.3892139299123665 
+            xmax = 5.508462052244326 
+            text = "4" 
+        intervals [18]:
+            xmin = 5.508462052244326 
+            xmax = 6.215021189910725 
+            text = "" 
+        intervals [19]:
+            xmin = 6.215021189910725 
+            xmax = 6.3228161027531735 
+            text = "1" 
+        intervals [20]:
+            xmin = 6.3228161027531735 
+            xmax = 6.378060995584929 
+            text = "x" 
+        intervals [21]:
+            xmin = 6.378060995584929 
+            xmax = 6.495287963301092 
+            text = "2" 
+        intervals [22]:
+            xmin = 6.495287963301092 
+            xmax = 6.617904676659377 
+            text = "3" 
+        intervals [23]:
+            xmin = 6.617904676659377 
+            xmax = 6.771512427459866 
+            text = "4" 
+        intervals [24]:
+            xmin = 6.771512427459866 
+            xmax = 7.227058575482949 
+            text = "" 
+        intervals [25]:
+            xmin = 7.227058575482949 
+            xmax = 7.2787645593436165 
+            text = "N" 
+        intervals [26]:
+            xmin = 7.2787645593436165 
+            xmax = 7.425160427201197 
+            text = "" 

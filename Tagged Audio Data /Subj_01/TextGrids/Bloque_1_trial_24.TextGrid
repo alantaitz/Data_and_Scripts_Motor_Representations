@@ -1,0 +1,26 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.720663930523118 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "agusgl" 
+        xmin = 0 
+        xmax = 12.720663930523118 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.363289105301769 
+            text = "" 
+        intervals [2]:
+            xmin = 4.363289105301769 
+            xmax = 5.671429583337445 
+            text = "NVT" 
+        intervals [3]:
+            xmin = 5.671429583337445 
+            xmax = 12.720663930523118 
+            text = "" 

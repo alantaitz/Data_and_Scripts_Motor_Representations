@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.81905172218317 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "luluf" 
+        xmin = 0 
+        xmax = 8.81905172218317 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.745906464921967 
+            text = "" 
+        intervals [2]:
+            xmin = 2.745906464921967 
+            xmax = 3.3812721879569767 
+            text = "N" 
+        intervals [3]:
+            xmin = 3.3812721879569767 
+            xmax = 3.991491601953713 
+            text = "" 
+        intervals [4]:
+            xmin = 3.991491601953713 
+            xmax = 4.416525467577364 
+            text = "N" 
+        intervals [5]:
+            xmin = 4.416525467577364 
+            xmax = 4.972191902198777 
+            text = "" 
+        intervals [6]:
+            xmin = 4.972191902198777 
+            xmax = 5.334146536881816 
+            text = "N" 
+        intervals [7]:
+            xmin = 5.334146536881816 
+            xmax = 6.07380739877565 
+            text = "" 
+        intervals [8]:
+            xmin = 6.07380739877565 
+            xmax = 6.210734081637342 
+            text = "c1" 
+        intervals [9]:
+            xmin = 6.210734081637342 
+            xmax = 6.296226376012916 
+            text = "c2" 
+        intervals [10]:
+            xmin = 6.296226376012916 
+            xmax = 6.397009975073551 
+            text = "c3" 
+        intervals [11]:
+            xmin = 6.397009975073551 
+            xmax = 6.910192897103709 
+            text = "" 
+        intervals [12]:
+            xmin = 6.910192897103709 
+            xmax = 6.9393853878661 
+            text = "c1" 
+        intervals [13]:
+            xmin = 6.9393853878661 
+            xmax = 7.170145076749763 
+            text = "c2" 
+        intervals [14]:
+            xmin = 7.170145076749763 
+            xmax = 7.320277886384917 
+            text = "c3" 
+        intervals [15]:
+            xmin = 7.320277886384917 
+            xmax = 7.745952367487541 
+            text = "" 
+        intervals [16]:
+            xmin = 7.745952367487541 
+            xmax = 8.037877275111452 
+            text = "N" 
+        intervals [17]:
+            xmin = 8.037877275111452 
+            xmax = 8.81905172218317 
+            text = "" 

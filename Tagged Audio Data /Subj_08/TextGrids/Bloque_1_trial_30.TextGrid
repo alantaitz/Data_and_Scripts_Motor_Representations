@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.4474955216435 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "federico" 
+        xmin = 0 
+        xmax = 8.4474955216435 
+        intervals: size = 36 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3479599505376056 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3479599505376056 
+            xmax = 1.3992184922527011 
+            text = "1" 
+        intervals [3]:
+            xmin = 1.3992184922527011 
+            xmax = 1.5160879673631187 
+            text = "k" 
+        intervals [4]:
+            xmin = 1.5160879673631187 
+            xmax = 1.6445760452622915 
+            text = "2" 
+        intervals [5]:
+            xmin = 1.6445760452622915 
+            xmax = 1.822955770430824 
+            text = "3" 
+        intervals [6]:
+            xmin = 1.822955770430824 
+            xmax = 1.9794651844675821 
+            text = "4" 
+        intervals [7]:
+            xmin = 1.9794651844675821 
+            xmax = 2.2588450974387375 
+            text = "" 
+        intervals [8]:
+            xmin = 2.2588450974387375 
+            xmax = 2.4291459373471564 
+            text = "c1" 
+        intervals [9]:
+            xmin = 2.4291459373471564 
+            xmax = 2.6597819319659863 
+            text = "c2" 
+        intervals [10]:
+            xmin = 2.6597819319659863 
+            xmax = 2.8446799867236985 
+            text = "c3" 
+        intervals [11]:
+            xmin = 2.8446799867236985 
+            xmax = 3.346817807091134 
+            text = "" 
+        intervals [12]:
+            xmin = 3.346817807091134 
+            xmax = 3.3823045733451584 
+            text = "1" 
+        intervals [13]:
+            xmin = 3.3823045733451584 
+            xmax = 3.4360724010027717 
+            text = "y" 
+        intervals [14]:
+            xmin = 3.4360724010027717 
+            xmax = 3.6898565475467042 
+            text = "z" 
+        intervals [15]:
+            xmin = 3.6898565475467042 
+            xmax = 3.722117244141272 
+            text = "2" 
+        intervals [16]:
+            xmin = 3.722117244141272 
+            xmax = 3.9113799974960695 
+            text = "3" 
+        intervals [17]:
+            xmin = 3.9113799974960695 
+            xmax = 4.101718107404019 
+            text = "4" 
+        intervals [18]:
+            xmin = 4.101718107404019 
+            xmax = 5.315129470639838 
+            text = "" 
+        intervals [19]:
+            xmin = 5.315129470639838 
+            xmax = 5.398141673842001 
+            text = "1" 
+        intervals [20]:
+            xmin = 5.398141673842001 
+            xmax = 5.482365734025217 
+            text = "k" 
+        intervals [21]:
+            xmin = 5.482365734025217 
+            xmax = 5.65808499627797 
+            text = "2" 
+        intervals [22]:
+            xmin = 5.65808499627797 
+            xmax = 5.8271390451349285 
+            text = "3" 
+        intervals [23]:
+            xmin = 5.8271390451349285 
+            xmax = 5.987104166633986 
+            text = "4" 
+        intervals [24]:
+            xmin = 5.987104166633986 
+            xmax = 6.468759493646882 
+            text = "" 
+        intervals [25]:
+            xmin = 6.468759493646882 
+            xmax = 6.5390471985479826 
+            text = "1" 
+        intervals [26]:
+            xmin = 6.5390471985479826 
+            xmax = 6.695376749103881 
+            text = "k" 
+        intervals [27]:
+            xmin = 6.695376749103881 
+            xmax = 6.852918156640831 
+            text = "2" 
+        intervals [28]:
+            xmin = 6.852918156640831 
+            xmax = 7.022578133988317 
+            text = "3" 
+        intervals [29]:
+            xmin = 7.022578133988317 
+            xmax = 7.1752721136010535 
+            text = "4" 
+        intervals [30]:
+            xmin = 7.1752721136010535 
+            xmax = 7.700927440666149 
+            text = "" 
+        intervals [31]:
+            xmin = 7.700927440666149 
+            xmax = 7.757790173861973 
+            text = "1" 
+        intervals [32]:
+            xmin = 7.757790173861973 
+            xmax = 7.879855507789008 
+            text = "k" 
+        intervals [33]:
+            xmin = 7.879855507789008 
+            xmax = 8.047411028272704 
+            text = "2" 
+        intervals [34]:
+            xmin = 8.047411028272704 
+            xmax = 8.127777024522802 
+            text = "3" 
+        intervals [35]:
+            xmin = 8.127777024522802 
+            xmax = 8.221790076739897 
+            text = "4" 
+        intervals [36]:
+            xmin = 8.221790076739897 
+            xmax = 8.4474955216435 
+            text = "" 
