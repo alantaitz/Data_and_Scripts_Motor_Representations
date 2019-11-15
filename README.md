@@ -1,8 +1,6 @@
 This repository has data and scripts from the paper "Motor representations underlie the reading of unfamiliar letter combinations"
 
-The files : Analysis.ipynb, Figure_3.R, Figure_4.R have
-The folder /Preprocessed Data/ has Data preprocessed from the experiment....
-
+The files : Analysis.ipynb, Figure_3.R, Figure_4.R have the scripts to run the principal figures from the paper and the statistical analyses. It loads data from the folder /Preprocessed Data/ which has audio and ocular data already preprocessed from the experiment.
 
 
 The folder /Tagged Audio Data/ contains examples of participants reading CCVs aloud 
